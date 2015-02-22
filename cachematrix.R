@@ -1,5 +1,5 @@
-##I've used solve to cache the inverse matrix
-##Replaced mean with solve in the function
+## I've used solve to cache the inverse matrix
+## Replaced mean with solve in the function
 
 makeCacheMatrix<-function(x=matrix()){
         m<-NULL
